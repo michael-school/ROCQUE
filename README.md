@@ -66,12 +66,11 @@ Click <a href="https://youtu.be/kjYYayXkPtI" target="_blank">here</a> for an exp
 ## Christian
 ### Front End Developer
 <ul>
-    <li>#</li>
-    <li>#</li>
-    <li>#</li>
-    <li>#</li>
-    <li>#</li>
-    <li>#</li>
+    <li>Shop Page</li>
+    <li>Product Images</li>
+    <li>Cart Page (visually, not how cart functions)</li>
+    <li>Navbar Hover Effect</li>
+    <li>Came up with Rocque idea</li>
 </ul>
 
 ## Shrey
