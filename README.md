@@ -3,8 +3,8 @@
 Click <a href="https://datadev.devcatalyst.com/~mahs_BMDBTMBMM/" target="_blank">here</a> to view site.
 Click <a href="https://youtu.be/kjYYayXkPtI" target="_blank">here</a> for an explanatory video.
 
-<p>ROCQUE is a [FILL IN].</p>
-<p>The authors are Shrey Patel, Michael Crockett, and Christian Wilcox from Madison Academic Magnet Highschool. We are <em>Big Men Doing Big Things, Making Big Money Moves: The SQL</em> <strong>(BMDBTMBMM: The SQL)</strong>.</p>
+ROCQUE is a [FILL IN].
+The authors are Shrey Patel, Michael Crockett, and Christian Wilcox from Madison Academic Magnet Highschool. We are <em>Big Men Doing Big Things, Making Big Money Moves: The SQL</em> <strong>(BMDBTMBMM: The SQL)</strong>.
 
 ### Main Features Include
 <ul>
@@ -23,26 +23,26 @@ Click <a href="https://youtu.be/kjYYayXkPtI" target="_blank">here</a> for an exp
             <tr>
             <tr>
                 <td>customer</td>
-                <td>??</td>
-                <td>??</td>
+                <td>customer.lady-9384@mail.mail</td>
+                <td>Test</td>
                 <td>'my orders' page and any page associated with placing an order</td>
             <tr>
             <tr>
                 <td>delivery person</td>
-                <td>??</td>
-                <td>??</td>
+                <td>deliveryman@rocque.com</td>
+                <td>Test</td>
                 <td>customer pages + delieveries page to manage order statuses</td>
             <tr>
             <tr>
                 <td>inventory manager</td>
-                <td>??</td>
-                <td>??</td>
+                <td>inventory@rocque.com</td>
+                <td>Test</td>
                 <td>customer pages + inventory page to view and edit inventory</td>
             <tr>
             <tr>
                 <td>administrator</td>
-                <td>??</td>
-                <td>??</td>
+                <td>admin@rocque.com</td>
+                <td>admin</td>
                 <td>all pages, including 'employees' page to assign employee roles</td>
             <tr>
         </table>
@@ -54,14 +54,12 @@ Click <a href="https://youtu.be/kjYYayXkPtI" target="_blank">here</a> for an exp
 ## Michael 
 ### Backend Developer
 <ul>
-    <li>#</li>
-    <li>#</li>
-    <li>#</li>
-    <li>#</li>
-    <li>#</li>
-    <li>#</li>
+    <li>designed and structured the backend</li>
+    <li>created interactions between elements on the site and tables in the database</li>
+    <li>used a touch of javascript</li>
+    <li>anything with php code</li>
 </ul>
-<img width="1143" alt="database diagram" src="https://user-images.githubusercontent.com/77060840/145503562-a2fce625-14d5-4b4f-9204-afe2eceffe73.png">
+<img width="500" alt="database diagram" src="https://user-images.githubusercontent.com/77060840/145503562-a2fce625-14d5-4b4f-9204-afe2eceffe73.png">
 
 ## Christian
 ### Front End Developer
@@ -85,8 +83,3 @@ Click <a href="https://youtu.be/kjYYayXkPtI" target="_blank">here</a> for an exp
 </ul>
 
 <hr>
-
-
-### Contact Page
-The mail-to functionality of the contact form would not be implemented in the final product. Instead, it would use php to send an email to a manager at Flatiron containing the data from the form. The user would not be required to manually send the email.
-
