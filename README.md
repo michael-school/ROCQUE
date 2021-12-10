@@ -80,9 +80,9 @@ Click <a href="https://youtu.be/kjYYayXkPtI" target="_blank">here</a> for an exp
     <li>Entire Homepage + Footer</li>
     <li>Designed Order Info page</li>
     <li>Payment Page</li>
-    <li>Majority of the website's front-end development</li>
-    <li>#</li>
-    <li>#</li>
+    <li>Part of the website's front-end development</li>
+    <li>Assisted front-end and back-end development with any issues/bugs</li>
+    <li>Ensured project was coming along quickly and efficiently</li>
 </ul>
 
 <hr>
