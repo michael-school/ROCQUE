@@ -3,17 +3,18 @@
 Click <a href="https://datadev.devcatalyst.com/~mahs_BMDBTMBMM/" target="_blank">here</a> to view site.
 Click <a href="https://youtu.be/kjYYayXkPtI" target="_blank">here</a> for an explanatory video.
 
-ROCQUE is a [FILL IN].
-The authors are Shrey Patel, Michael Crockett, and Christian Wilcox from Madison Academic Magnet Highschool. We are <em>Big Men Doing Big Things, Making Big Money Moves: The SQL</em> <strong>(BMDBTMBMM: The SQL)</strong>.
+ROCQUE is an e-commerce company that offers a wide selection of premium rocks.
+
+The authors of the website are Shrey Patel, Michael Crockett, and Christian Wilcox from Madison Academic Magnet High School. We are <em>Big Men Doing Big Things, Making Big Money Moves: The SQL</em> <strong>(BMDBTMBMM: The SQL)</strong>.
 
 ### Main Features Include
 <ul>
-    <li>Relational Database: blah blah blah</li>
-    <li>Shop page: blah blah blah</li>
+    <li>Relational Database</li>
+    <li>Shop page that responds to inventory</li>
     <li>A general order tracking page, with a more detailed page generated for each order</li>
     <li>A deliveries page, where new orders, orders in transit, and delivered orders each have their own dedicated accordion and can be moved from one accordion to another by employees with the "Delivery Person" role</li>
-    <li>Restricted Access: blah blah blah</li>
-    <li>Account roles
+    <li>access to certain pages and functionality restricted to certain employee "roles"</li>
+    <li>Test Account Roles:
         <table>
             <tr>
                 <th>role</th>
@@ -56,6 +57,7 @@ The authors are Shrey Patel, Michael Crockett, and Christian Wilcox from Madison
 <ul>
     <li>designed and structured the backend</li>
     <li>created interactions between elements on the site and tables in the database</li>
+    <li>pop-ups</li>
     <li>used a touch of javascript</li>
     <li>anything with php code</li>
 </ul>
@@ -74,7 +76,7 @@ The authors are Shrey Patel, Michael Crockett, and Christian Wilcox from Madison
 ## Shrey
 ### Project Manager
 <ul>
-    <li>Entire Homepage + Footer</li>
+    <li>Homepage + Footer</li>
     <li>Designed Order Info page</li>
     <li>Payment Page</li>
     <li>Part of the website's front-end development</li>
